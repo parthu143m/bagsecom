@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bagsecom/static/css/main.98c291f5.css",
+    "main.js": "/bagsecom/static/js/main.d2cfd81a.js",
+    "static/js/453.75d69c2b.chunk.js": "/bagsecom/static/js/453.75d69c2b.chunk.js",
+    "static/media/bag2.png": "/bagsecom/static/media/bag2.358b7d2c4f0772414234.png",
+    "static/media/bag.png": "/bagsecom/static/media/bag.81b7b69551a6e2fd09ec.png",
+    "index.html": "/bagsecom/index.html",
+    "main.98c291f5.css.map": "/bagsecom/static/css/main.98c291f5.css.map",
+    "main.d2cfd81a.js.map": "/bagsecom/static/js/main.d2cfd81a.js.map",
+    "453.75d69c2b.chunk.js.map": "/bagsecom/static/js/453.75d69c2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c291f5.css",
+    "static/js/main.d2cfd81a.js"
+  ]
+}
